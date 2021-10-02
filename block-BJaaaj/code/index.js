@@ -1,7 +1,7 @@
 // Accessing and assigning.
 
-let firstName = "Arya";
-let lastName = "Stark";
+let firstName = "onu";
+let lastName = "Sinthik";
 
 // Do the following:
 
@@ -20,7 +20,7 @@ let lastName = "Stark";
 
 // Assignment and re-assignment
 
-var wiseMan = "Tyrion Lannister";
+var wiseMan = "Roman Regins";
 
 // Follow instructions and do the following. In case of an error write the error in comment
 
@@ -31,7 +31,7 @@ var wiseMan = "Tyrion Lannister";
 
 // Mathematical Operation
 
-let amount = 4280;
+let amount = 1999;
 
 // Using mathematical operations find the solutions. `(+, -, \*, / , etc.)`
 
