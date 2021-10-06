@@ -31,4 +31,5 @@ else {
     alert(`You can not afford the phone`);
 }
 
+
 // ⛑ Answer of the above will `$334.76`.
